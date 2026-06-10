@@ -1,0 +1,42 @@
+# Gradle files
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Local configuration file
+local.properties
+
+# Android Studio
+.idea/
+.DS_Store
+androidStudio.properties
+
+# Build output
+bin/
+
+# Generated files
+gen/
+
+# Proguard
+proguard_logs/
+
+# Libraries
+libs/
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# Kotlin
+kotlin-build/
+
+# IDE
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
